@@ -1,0 +1,501 @@
+customer_id,name,plan_type,region,data_used_gb,calls_made,revenue_inr,arpu,complaints_total,complaints_open,complaint_open_ratio,tenure,contract_type,monthly_charges,churn,churn_flag,churn_prob,churn_pred,risk_tier
+1001,Neha Pandey,Postpaid,Mumbai,9.31,308,358.68,10.55,0.0,0.0,0.0,34,Two Year,341.56,No,0,0.001,0,Low
+1002,Preeti Bose,Prepaid,Kolkata,7.76,281,170.24,3.55,2.0,0.0,0.0,48,Month-To-Month,151.53,Yes,1,0.0,0,
+1003,Sunita Joshi,Prepaid,Kolkata,2.91,256,198.77,5.37,0.0,0.0,0.0,37,Two Year,208.42,No,0,0.005,0,Low
+1004,Preeti Gupta,Postpaid,Hyderabad,16.29,288,179.7,11.98,1.0,0.0,0.0,15,Month-To-Month,173.38,No,0,0.01,0,Low
+1005,Vinod Chatterjee,Postpaid,Bangalore,16.29,229,286.39,6.51,1.0,1.0,1.0,44,One Year,332.38,No,0,0.0,0,
+1006,Nisha Iyer,Postpaid,Bangalore,8.06,70,167.23,4.65,1.0,0.0,0.0,36,One Year,184.57,No,0,0.038,0,Low
+1007,Sunita Singh,Postpaid,Hyderabad,14.54,484,424.53,28.3,2.0,1.0,0.5,15,Two Year,386.16,No,0,0.0,0,
+1008,Amit Rao,Prepaid,Kolkata,3.65,296,237.79,5.53,1.0,0.0,0.0,43,One Year,220.17,No,0,0.0,0,
+1009,Sanjay Kumar,Postpaid,Kolkata,17.25,320,265.97,5.54,3.0,3.0,1.0,48,One Year,278.45,No,0,0.0,0,
+1010,Ajay Reddy,Prepaid,Kolkata,1.78,274,127.3,5.53,0.0,0.0,0.0,23,Month-To-Month,132.19,Yes,1,0.03,0,Low
+1011,Rajesh Verma,Prepaid,Mumbai,1.13,206,65.19,10.86,1.0,0.0,0.0,6,One Year,64.54,No,0,0.168,0,Low
+1012,Ravi Mehta,Prepaid,Kolkata,9.71,261,159.69,3.47,2.0,0.0,0.0,46,Month-To-Month,187.85,No,0,0.001,0,Low
+1013,Rohit Reddy,Prepaid,Chennai,6.98,120,215.93,4.32,1.0,0.0,0.0,50,One Year,234.1,No,0,0.005,0,Low
+1014,Swati Shah,Prepaid,Delhi,4.34,508,209.67,4.77,0.0,0.0,0.0,44,One Year,229.78,No,0,0.0,0,
+1015,Geeta Nair,Prepaid,Kolkata,0.4,157,204.27,3.46,3.0,1.0,0.33,59,One Year,220.8,No,0,0.0,0,
+1016,Arun Das,Postpaid,Hyderabad,10.08,177,620.64,14.43,1.0,0.0,0.0,43,Month-To-Month,568.47,No,0,0.001,0,Low
+1017,Divya Bose,Prepaid,Delhi,4.25,236,218.88,4.86,2.0,1.0,0.5,45,Month-To-Month,234.37,Yes,1,0.001,0,Low
+1018,Rajesh Chatterjee,Postpaid,Mumbai,7.67,409,304.51,14.5,0.0,0.0,0.0,21,One Year,335.56,No,0,0.001,0,Low
+1019,Rohit Pandey,Prepaid,Hyderabad,8.25,281,159.07,6.92,0.0,0.0,0.0,23,Month-To-Month,158.87,Yes,1,0.016,0,Low
+1020,Swati Rao,Prepaid,Delhi,4.97,156,237.29,5.52,2.0,0.0,0.0,43,Month-To-Month,213.83,Yes,1,0.005,0,Low
+1021,Priya Chatterjee,Prepaid,Hyderabad,2.87,405,141.31,2.57,0.0,0.0,0.0,55,Month-To-Month,153.2,Yes,1,0.0,0,
+1022,Neha Patel,Prepaid,Mumbai,2.4,353,180.83,11.3,1.0,1.0,1.0,16,Two Year,207.0,No,0,0.002,0,Low
+1023,Neha Pillai,Prepaid,Chennai,3.92,334,110.08,2.34,3.0,0.0,0.0,47,One Year,115.04,No,0,0.0,0,
+1024,Arjun Mishra,Prepaid,Mumbai,3.42,352,127.72,2.41,1.0,0.0,0.0,53,Month-To-Month,118.89,No,0,0.0,0,
+1025,Manoj Patel,Prepaid,Mumbai,4.83,519,236.45,15.76,1.0,0.0,0.0,15,Month-To-Month,232.91,No,0,0.0,0,
+1026,Vinod Kumar,Postpaid,Hyderabad,12.54,499,477.54,19.1,0.0,0.0,0.0,25,Month-To-Month,436.09,Yes,1,0.0,0,
+1027,Deepak Bose,Prepaid,Bangalore,4.28,211,240.87,6.69,2.0,1.0,0.5,36,One Year,211.68,No,0,0.001,0,Low
+1028,Arun Gupta,Postpaid,Kolkata,17.81,442,323.91,29.45,1.0,1.0,1.0,11,One Year,297.77,No,0,0.001,0,Low
+1029,Rohit Joshi,Prepaid,Kolkata,2.7,318,62.32,1.22,1.0,0.0,0.0,51,Month-To-Month,60.44,Yes,1,0.001,0,Low
+1030,Divya Rao,Postpaid,Chennai,6.73,330,200.96,13.4,2.0,1.0,0.5,15,Month-To-Month,201.36,No,0,0.003,0,Low
+1031,Suresh Shah,Postpaid,Chennai,17.83,111,359.04,89.76,2.0,1.0,0.5,4,Month-To-Month,416.51,Yes,1,0.991,1,High
+1032,Arjun Pillai,Postpaid,Kolkata,6.38,263,384.22,18.3,1.0,0.0,0.0,21,One Year,335.48,No,0,0.005,0,Low
+1033,Amit Singh,Prepaid,Bangalore,3.59,199,139.33,10.72,2.0,1.0,0.5,13,One Year,144.38,No,0,0.022,0,Low
+1034,Ravi Verma,Prepaid,Kolkata,1.55,363,225.91,10.27,1.0,1.0,1.0,22,Month-To-Month,252.22,Yes,1,0.002,0,Low
+1035,Sanjay Nair,Prepaid,Bangalore,3.85,387,185.84,9.78,1.0,0.0,0.0,19,Month-To-Month,176.99,Yes,1,0.002,0,Low
+1036,Arjun Pillai,Postpaid,Chennai,12.7,73,286.77,8.43,2.0,0.0,0.0,34,Month-To-Month,306.61,No,0,0.02,0,Low
+1037,Vinod Reddy,Postpaid,Delhi,6.21,278,370.89,26.49,0.0,0.0,0.0,14,Two Year,361.59,No,0,0.035,0,Low
+1038,Ravi Nair,Postpaid,Hyderabad,8.09,392,308.65,77.16,0.0,0.0,0.0,4,Month-To-Month,300.82,Yes,1,0.821,1,High
+1039,Rajesh Singh,Prepaid,Chennai,1.85,261,186.57,3.89,1.0,0.0,0.0,48,One Year,189.66,No,0,0.001,0,Low
+1040,Suresh Das,Postpaid,Chennai,30.26,353,415.49,7.84,0.0,0.0,0.0,53,One Year,377.43,No,0,0.0,0,
+1041,Divya Joshi,Postpaid,Mumbai,19.52,315,263.44,5.07,0.0,0.0,0.0,52,Month-To-Month,283.42,No,0,0.0,0,
+1042,Suresh Joshi,Prepaid,Mumbai,6.61,314,179.2,3.9,1.0,1.0,1.0,46,Month-To-Month,182.0,Yes,1,0.0,0,
+1043,Rekha Das,Prepaid,Mumbai,3.41,253,170.0,6.3,0.0,0.0,0.0,27,Month-To-Month,168.1,Yes,1,0.023,0,Low
+1044,Meena Pillai,Postpaid,Hyderabad,8.63,158,341.43,11.77,1.0,0.0,0.0,29,One Year,325.45,No,0,0.009,0,Low
+1045,Divya Chopra,Postpaid,Mumbai,11.18,168,511.9,10.89,1.0,0.0,0.0,47,One Year,471.71,No,0,0.0,0,
+1046,Pooja Bose,Postpaid,Bangalore,12.69,351,300.92,10.75,0.0,0.0,0.0,28,One Year,310.73,No,0,0.001,0,Low
+1047,Meena Mehta,Prepaid,Kolkata,1.17,282,135.88,3.88,0.0,0.0,0.0,35,One Year,130.18,No,0,0.005,0,Low
+1048,Swati Gupta,Postpaid,Delhi,16.88,266,301.26,37.66,1.0,0.0,0.0,8,Month-To-Month,336.54,Yes,1,0.115,0,Low
+1049,Pooja Mehta,Prepaid,Chennai,2.35,238,140.25,8.77,1.0,0.0,0.0,16,Two Year,124.14,No,0,0.033,0,Low
+1050,Rohit Joshi,Prepaid,Bangalore,4.38,249,124.86,2.97,0.0,0.0,0.0,42,One Year,129.4,No,0,0.004,0,Low
+1051,Ajay Iyer,Prepaid,Delhi,1.11,385,212.52,5.9,0.0,0.0,0.0,36,Month-To-Month,198.83,No,0,0.001,0,Low
+1052,Kavya Shah,Postpaid,Bangalore,12.96,246,180.88,6.03,1.0,0.0,0.0,30,Two Year,211.28,No,0,0.002,0,Low
+1053,Amit Rao,Postpaid,Bangalore,17.01,146,334.12,18.56,0.0,0.0,0.0,18,One Year,366.54,No,0,0.054,0,Low
+1054,Sneha Mehta,Prepaid,Chennai,5.15,354,217.75,108.88,2.0,0.0,0.0,2,One Year,218.6,No,0,0.986,1,High
+1055,Geeta Sharma,Prepaid,Kolkata,3.27,260,262.31,5.35,1.0,1.0,1.0,49,One Year,235.58,No,0,0.0,0,
+1056,Vikram Gupta,Postpaid,Mumbai,19.66,283,404.21,31.09,0.0,0.0,0.0,13,Two Year,400.93,No,0,0.018,0,Low
+1057,Vinod Patel,Prepaid,Hyderabad,7.32,441,207.15,51.79,3.0,1.0,0.33,4,One Year,183.49,No,0,0.011,0,Low
+1058,Arun Gupta,Postpaid,Kolkata,4.91,278,289.01,11.12,1.0,0.0,0.0,26,Month-To-Month,290.42,No,0,0.005,0,Low
+1059,Pooja Joshi,Prepaid,Hyderabad,11.11,309,129.51,5.18,1.0,0.0,0.0,25,Month-To-Month,129.88,Yes,1,0.003,0,Low
+1060,Rohit Kumar,Prepaid,Chennai,12.59,162,110.66,3.69,3.0,2.0,0.67,30,Two Year,124.91,No,0,0.002,0,Low
+1061,Asha Das,Prepaid,Chennai,13.84,258,264.51,24.05,0.0,0.0,0.0,11,Month-To-Month,242.49,Yes,1,0.12,0,Low
+1062,Nisha Sharma,Prepaid,Chennai,3.9,341,96.34,13.76,1.0,0.0,0.0,7,Month-To-Month,104.25,Yes,1,0.035,0,Low
+1063,Sneha Reddy,Postpaid,Delhi,17.93,124,216.42,6.98,0.0,0.0,0.0,31,Month-To-Month,193.25,No,0,0.058,0,Low
+1064,Amit Rao,Prepaid,Hyderabad,10.84,300,153.41,3.49,0.0,0.0,0.0,44,Month-To-Month,136.58,Yes,1,0.002,0,Low
+1065,Asha Rao,Prepaid,Kolkata,8.05,290,165.12,16.51,1.0,1.0,1.0,10,One Year,145.74,No,0,0.015,0,Low
+1066,Priya Bose,Postpaid,Kolkata,11.24,284,455.74,11.69,0.0,0.0,0.0,39,Two Year,452.99,No,0,0.0,0,
+1067,Suresh Rao,Prepaid,Bangalore,2.26,384,152.51,11.73,0.0,0.0,0.0,13,Month-To-Month,144.82,No,0,0.014,0,Low
+1068,Asha Sharma,Prepaid,Bangalore,0.91,313,245.53,7.92,1.0,1.0,1.0,31,Month-To-Month,226.6,Yes,1,0.002,0,Low
+1069,Vinod Mishra,Postpaid,Bangalore,7.93,428,442.18,63.17,1.0,1.0,1.0,7,Month-To-Month,497.22,Yes,1,0.04,0,Low
+1070,Neha Patel,Postpaid,Chennai,19.16,181,299.15,5.34,1.0,0.0,0.0,56,Two Year,290.36,No,0,0.0,0,
+1071,Divya Bose,Prepaid,Kolkata,2.41,294,136.26,2.78,2.0,0.0,0.0,49,One Year,158.39,No,0,0.0,0,
+1072,Vinod Nair,Postpaid,Hyderabad,7.49,288,262.24,6.24,0.0,0.0,0.0,42,Month-To-Month,262.43,No,0,0.002,0,Low
+1073,Arun Chopra,Postpaid,Chennai,9.64,173,294.7,7.02,0.0,0.0,0.0,42,Two Year,328.74,No,0,0.005,0,Low
+1074,Kavya Gupta,Prepaid,Delhi,7.19,376,155.94,2.78,2.0,0.0,0.0,56,Two Year,172.33,No,0,0.0,0,
+1075,Anita Pandey,Prepaid,Bangalore,4.51,512,239.26,6.65,1.0,1.0,1.0,36,Two Year,249.36,No,0,0.0,0,
+1076,Preeti Singh,Postpaid,Chennai,6.61,278,381.21,19.06,1.0,0.0,0.0,20,Two Year,389.1,No,0,0.004,0,Low
+1077,Rajesh Sharma,Postpaid,Chennai,3.63,331,212.02,53.0,1.0,0.0,0.0,4,Month-To-Month,204.46,Yes,1,0.587,1,Medium
+1078,Nisha Gupta,Prepaid,Delhi,3.14,288,179.74,3.33,0.0,0.0,0.0,54,One Year,206.05,No,0,0.001,0,Low
+1079,Meena Bose,Postpaid,Mumbai,12.4,209,203.37,29.05,1.0,0.0,0.0,7,Month-To-Month,203.15,Yes,1,0.305,0,Low
+1080,Sunita Singh,Postpaid,Kolkata,7.28,98,401.45,7.43,0.0,0.0,0.0,54,Two Year,443.7,No,0,0.004,0,Low
+1081,Meena Gupta,Prepaid,Hyderabad,1.66,209,168.96,168.96,1.0,0.0,0.0,1,One Year,165.29,No,0,1.0,1,High
+1082,Geeta Chatterjee,Prepaid,Mumbai,0.93,141,159.93,3.63,3.0,0.0,0.0,44,One Year,153.6,No,0,0.002,0,Low
+1083,Sanjay Kumar,Prepaid,Bangalore,2.71,450,157.28,2.81,1.0,0.0,0.0,56,One Year,154.65,No,0,0.0,0,
+1084,Vikram Chopra,Postpaid,Chennai,8.37,268,502.06,11.16,0.0,0.0,0.0,45,Month-To-Month,468.56,Yes,1,0.001,0,Low
+1085,Rajesh Verma,Prepaid,Delhi,2.18,245,107.98,2.57,1.0,0.0,0.0,42,One Year,113.58,No,0,0.002,0,Low
+1086,Arun Reddy,Postpaid,Delhi,16.55,369,272.95,5.81,0.0,0.0,0.0,47,Two Year,252.84,No,0,0.0,0,
+1087,Rohit Pandey,Postpaid,Kolkata,23.71,168,267.35,4.53,0.0,0.0,0.0,59,Two Year,272.85,No,0,0.001,0,Low
+1088,Rajesh Iyer,Postpaid,Mumbai,8.01,203,314.09,24.16,0.0,0.0,0.0,13,Month-To-Month,315.59,No,0,0.196,0,Low
+1089,Vinod Gupta,Prepaid,Kolkata,2.73,287,154.43,2.81,0.0,0.0,0.0,55,Month-To-Month,147.86,No,0,0.002,0,Low
+1090,Rajesh Mehta,Postpaid,Chennai,13.94,383,288.38,13.11,0.0,0.0,0.0,22,Month-To-Month,337.09,No,0,0.001,0,Low
+1091,Asha Pandey,Prepaid,Kolkata,6.23,330,130.35,2.41,2.0,1.0,0.5,54,One Year,124.59,No,0,0.0,0,
+1092,Meena Patel,Postpaid,Hyderabad,8.94,305,462.97,22.05,2.0,0.0,0.0,21,Two Year,447.07,No,0,0.001,0,Low
+1093,Sneha Gupta,Prepaid,Delhi,4.68,288,130.67,5.94,1.0,0.0,0.0,22,Month-To-Month,138.57,Yes,1,0.01,0,Low
+1094,Karan Joshi,Prepaid,Delhi,2.68,320,128.61,4.59,3.0,1.0,0.33,28,One Year,146.86,No,0,0.0,0,
+1095,Geeta Patel,Postpaid,Bangalore,7.78,300,384.97,42.77,0.0,0.0,0.0,9,Two Year,438.82,No,0,0.104,0,Low
+1096,Rajesh Sharma,Prepaid,Bangalore,5.92,177,195.64,7.52,0.0,0.0,0.0,26,One Year,173.6,No,0,0.039,0,Low
+1097,Asha Chatterjee,Prepaid,Chennai,3.67,285,240.33,26.7,0.0,0.0,0.0,9,One Year,227.42,No,0,0.117,0,Low
+1098,Vikram Reddy,Postpaid,Hyderabad,12.59,173,401.26,26.75,1.0,1.0,1.0,15,One Year,451.8,No,0,0.023,0,Low
+1099,Ajay Bose,Postpaid,Mumbai,12.24,288,479.76,47.98,0.0,0.0,0.0,10,One Year,501.31,No,0,0.078,0,Low
+1100,Geeta Patel,Postpaid,Kolkata,19.33,232,321.71,13.4,0.0,0.0,0.0,24,Month-To-Month,313.03,No,0,0.012,0,Low
+1101,Deepak Shah,Postpaid,Chennai,10.39,534,381.18,6.57,0.0,0.0,0.0,58,One Year,346.32,No,0,0.0,0,
+1102,Rajesh Shah,Prepaid,Bangalore,2.55,276,163.37,2.87,0.0,0.0,0.0,57,One Year,189.28,No,0,0.001,0,Low
+1103,Vinod Pandey,Prepaid,Kolkata,9.55,140,174.87,4.16,1.0,0.0,0.0,42,Two Year,189.87,No,0,0.008,0,Low
+1104,Rohit Gupta,Prepaid,Bangalore,2.49,267,155.65,19.46,1.0,0.0,0.0,8,One Year,139.36,No,0,0.069,0,Low
+1105,Ravi Rao,Prepaid,Kolkata,4.76,332,217.39,9.06,3.0,0.0,0.0,24,One Year,254.93,No,0,0.0,0,
+1106,Anita Sharma,Postpaid,Mumbai,12.91,447,348.45,21.78,0.0,0.0,0.0,16,Month-To-Month,382.74,No,0,0.001,0,Low
+1107,Anita Shah,Postpaid,Chennai,17.39,221,298.25,6.09,0.0,0.0,0.0,49,Month-To-Month,262.15,No,0,0.002,0,Low
+1108,Geeta Shah,Prepaid,Kolkata,2.19,122,238.53,9.17,1.0,1.0,1.0,26,Month-To-Month,230.68,Yes,1,0.065,0,Low
+1109,Ravi Kumar,Prepaid,Hyderabad,4.25,362,94.01,3.48,1.0,0.0,0.0,27,Month-To-Month,101.25,No,0,0.002,0,Low
+1110,Arun Sharma,Postpaid,Delhi,7.88,142,279.82,7.56,0.0,0.0,0.0,37,One Year,321.6,No,0,0.013,0,Low
+1111,Asha Mehta,Prepaid,Hyderabad,3.11,236,182.66,45.66,2.0,0.0,0.0,4,Two Year,212.78,No,0,0.468,0,Medium
+1112,Kavya Kumar,Postpaid,Hyderabad,14.06,254,340.12,6.8,2.0,1.0,0.5,50,Month-To-Month,368.32,No,0,0.0,0,
+1113,Rekha Reddy,Prepaid,Delhi,1.09,273,188.62,7.86,0.0,0.0,0.0,24,Month-To-Month,169.25,Yes,1,0.027,0,Low
+1114,Vinod Verma,Postpaid,Hyderabad,10.94,349,411.66,21.67,1.0,1.0,1.0,19,Two Year,422.31,No,0,0.001,0,Low
+1115,Nisha Singh,Prepaid,Kolkata,6.76,212,280.62,7.8,1.0,0.0,0.0,36,Month-To-Month,263.22,Yes,1,0.005,0,Low
+1116,Nisha Iyer,Postpaid,Kolkata,15.85,253,260.1,6.67,0.0,0.0,0.0,39,One Year,231.1,No,0,0.001,0,Low
+1117,Ajay Shah,Postpaid,Kolkata,6.32,279,381.5,38.15,0.0,0.0,0.0,10,One Year,392.32,No,0,0.103,0,Low
+1118,Karan Sharma,Postpaid,Delhi,20.28,295,169.57,6.78,0.0,0.0,0.0,25,One Year,186.88,No,0,0.002,0,Low
+1119,Deepak Kumar,Postpaid,Hyderabad,10.25,290,366.53,20.36,0.0,0.0,0.0,18,Month-To-Month,364.66,No,0,0.015,0,Low
+1120,Karan Iyer,Postpaid,Delhi,15.63,324,286.87,15.1,0.0,0.0,0.0,19,Month-To-Month,255.58,No,0,0.007,0,Low
+1121,Rahul Das,Postpaid,Kolkata,12.96,364,519.28,14.42,0.0,0.0,0.0,36,One Year,475.83,No,0,0.0,0,
+1122,Asha Patel,Prepaid,Hyderabad,9.15,319,85.95,8.6,1.0,0.0,0.0,10,One Year,98.82,No,0,0.008,0,Low
+1123,Arun Verma,Postpaid,Hyderabad,18.51,325,351.68,10.66,0.0,0.0,0.0,33,Month-To-Month,332.47,No,0,0.001,0,Low
+1124,Rahul Rao,Postpaid,Bangalore,12.38,122,457.89,8.33,0.0,0.0,0.0,55,One Year,448.22,No,0,0.001,0,Low
+1125,Deepak Singh,Prepaid,Bangalore,4.85,285,180.38,3.61,0.0,0.0,0.0,50,Month-To-Month,160.73,No,0,0.002,0,Low
+1126,Kavya Rao,Postpaid,Mumbai,21.85,328,248.4,49.68,0.0,0.0,0.0,5,One Year,280.13,No,0,0.18,0,Low
+1127,Kavya Pandey,Postpaid,Chennai,6.06,353,251.62,5.35,2.0,2.0,1.0,47,Month-To-Month,249.08,No,0,0.0,0,
+1128,Neha Pandey,Postpaid,Bangalore,13.91,211,312.77,6.38,1.0,1.0,1.0,49,Two Year,280.8,No,0,0.0,0,
+1129,Pooja Mehta,Prepaid,Delhi,1.79,214,190.54,5.44,0.0,0.0,0.0,35,Month-To-Month,195.83,No,0,0.023,0,Low
+1130,Amit Gupta,Prepaid,Bangalore,2.27,223,188.46,4.28,1.0,0.0,0.0,44,Month-To-Month,189.48,Yes,1,0.004,0,Low
+1131,Manoj Joshi,Postpaid,Mumbai,8.74,334,371.9,10.94,1.0,0.0,0.0,34,Month-To-Month,426.91,No,0,0.0,0,
+1132,Asha Iyer,Postpaid,Hyderabad,12.49,383,190.44,5.77,1.0,0.0,0.0,33,Month-To-Month,204.02,No,0,0.0,0,
+1133,Arun Pillai,Prepaid,Mumbai,3.08,239,249.98,4.55,2.0,0.0,0.0,55,Two Year,263.87,No,0,0.0,0,
+1134,Nisha Nair,Postpaid,Hyderabad,8.92,371,296.25,14.11,0.0,0.0,0.0,21,Two Year,261.35,No,0,0.002,0,Low
+1135,Sneha Gupta,Postpaid,Hyderabad,12.75,292,311.83,18.34,1.0,1.0,1.0,17,Month-To-Month,333.58,No,0,0.005,0,Low
+1136,Arun Das,Prepaid,Chennai,6.92,268,173.6,7.89,2.0,1.0,0.5,22,Month-To-Month,175.66,Yes,1,0.004,0,Low
+1137,Vinod Das,Postpaid,Bangalore,10.42,259,392.54,8.18,0.0,0.0,0.0,48,One Year,373.35,No,0,0.0,0,
+1138,Swati Pandey,Prepaid,Delhi,3.26,355,219.74,5.94,2.0,0.0,0.0,37,Two Year,244.52,No,0,0.0,0,
+1139,Arun Shah,Prepaid,Delhi,5.05,313,219.48,14.63,1.0,0.0,0.0,15,One Year,220.38,No,0,0.007,0,Low
+1140,Ravi Mehta,Prepaid,Kolkata,1.0,508,140.74,4.02,1.0,1.0,1.0,35,Month-To-Month,131.34,Yes,1,0.0,0,
+1141,Rahul Reddy,Postpaid,Hyderabad,14.14,195,348.75,12.46,1.0,1.0,1.0,28,Month-To-Month,314.17,No,0,0.005,0,Low
+1142,Priya Sharma,Prepaid,Delhi,5.17,332,216.29,30.9,3.0,0.0,0.0,7,One Year,208.4,No,0,0.009,0,Low
+1143,Geeta Patel,Prepaid,Chennai,4.2,227,152.43,4.76,1.0,0.0,0.0,32,Month-To-Month,145.07,Yes,1,0.012,0,Low
+1144,Pooja Rao,Prepaid,Hyderabad,7.18,193,121.17,11.02,0.0,0.0,0.0,11,One Year,136.47,No,0,0.15,0,Low
+1145,Kavya Das,Prepaid,Chennai,6.6,279,300.72,30.07,0.0,0.0,0.0,10,Month-To-Month,265.25,Yes,1,0.189,0,Low
+1146,Rahul Rao,Postpaid,Delhi,15.71,294,328.57,36.51,3.0,1.0,0.33,9,One Year,369.27,No,0,0.004,0,Low
+1147,Deepak Mehta,Prepaid,Delhi,3.09,572,282.24,20.16,3.0,1.0,0.33,14,Month-To-Month,260.75,Yes,1,0.0,0,
+1148,Ajay Pandey,Prepaid,Kolkata,2.67,262,213.63,16.43,2.0,1.0,0.5,13,One Year,229.85,No,0,0.008,0,Low
+1149,Sunita Shah,Postpaid,Delhi,12.92,167,362.82,6.37,0.0,0.0,0.0,57,Month-To-Month,321.06,No,0,0.002,0,Low
+1150,Amit Singh,Prepaid,Hyderabad,4.98,307,216.0,8.64,1.0,0.0,0.0,25,One Year,202.63,No,0,0.002,0,Low
+1151,Karan Joshi,Prepaid,Hyderabad,2.17,73,118.35,59.18,0.0,0.0,0.0,2,Month-To-Month,109.98,Yes,1,0.999,1,High
+1152,Deepak Rao,Prepaid,Hyderabad,6.8,271,174.3,4.98,0.0,0.0,0.0,35,One Year,190.34,No,0,0.003,0,Low
+1153,Rahul Rao,Prepaid,Kolkata,4.84,282,246.56,35.22,0.0,0.0,0.0,7,One Year,250.85,No,0,0.234,0,Low
+1154,Swati Pillai,Prepaid,Kolkata,3.61,359,221.64,10.55,0.0,0.0,0.0,21,One Year,214.07,No,0,0.003,0,Low
+1155,Suresh Pillai,Prepaid,Delhi,6.18,377,202.92,11.27,0.0,0.0,0.0,18,One Year,187.72,No,0,0.003,0,Low
+1156,Ravi Rao,Prepaid,Mumbai,5.39,230,234.04,78.01,2.0,1.0,0.5,3,One Year,265.6,No,0,0.921,1,High
+1157,Rahul Patel,Postpaid,Mumbai,5.91,265,421.8,10.04,2.0,0.0,0.0,42,Two Year,370.42,No,0,0.0,0,
+1158,Arjun Mehta,Prepaid,Kolkata,8.19,203,166.47,3.08,0.0,0.0,0.0,54,Month-To-Month,149.02,Yes,1,0.005,0,Low
+1159,Arjun Mehta,Postpaid,Delhi,14.55,167,218.03,5.59,2.0,0.0,0.0,39,Two Year,234.16,No,0,0.002,0,Low
+1160,Suresh Das,Postpaid,Mumbai,17.04,311,309.94,7.56,2.0,0.0,0.0,41,Month-To-Month,282.58,No,0,0.0,0,
+1161,Deepak Joshi,Prepaid,Delhi,3.15,153,94.63,1.93,0.0,0.0,0.0,49,Month-To-Month,94.11,Yes,1,0.033,0,Low
+1162,Neha Rao,Postpaid,Delhi,6.16,239,288.63,26.24,0.0,0.0,0.0,11,Month-To-Month,291.98,Yes,1,0.211,0,Low
+1163,Anita Mehta,Prepaid,Delhi,6.22,180,208.24,5.34,1.0,1.0,1.0,39,Month-To-Month,220.52,No,0,0.006,0,Low
+1164,Rahul Reddy,Postpaid,Bangalore,9.75,335,160.22,6.68,0.0,0.0,0.0,24,One Year,156.42,No,0,0.003,0,Low
+1165,Geeta Chatterjee,Prepaid,Hyderabad,2.43,460,251.58,5.47,3.0,1.0,0.33,46,One Year,235.35,No,0,0.0,0,
+1166,Sanjay Mishra,Prepaid,Delhi,4.11,150,206.39,10.86,0.0,0.0,0.0,19,One Year,212.06,No,0,0.129,0,Low
+1167,Rajesh Verma,Prepaid,Bangalore,0.68,95,298.2,74.55,1.0,0.0,0.0,4,One Year,287.07,No,0,0.996,1,High
+1168,Karan Chopra,Postpaid,Kolkata,17.28,268,342.37,13.17,0.0,0.0,0.0,26,Month-To-Month,323.05,No,0,0.005,0,Low
+1169,Kavya Joshi,Prepaid,Mumbai,2.03,282,235.57,6.2,1.0,1.0,1.0,38,Month-To-Month,221.54,Yes,1,0.001,0,Low
+1170,Geeta Kumar,Postpaid,Hyderabad,12.73,302,406.26,9.67,0.0,0.0,0.0,42,Month-To-Month,469.35,No,0,0.0,0,
+1171,Rekha Mehta,Prepaid,Mumbai,3.26,235,109.94,3.44,1.0,0.0,0.0,32,Month-To-Month,99.23,Yes,1,0.012,0,Low
+1172,Arun Bose,Postpaid,Hyderabad,9.68,260,329.46,8.45,0.0,0.0,0.0,39,Month-To-Month,333.64,No,0,0.002,0,Low
+1173,Asha Sharma,Prepaid,Mumbai,3.7,317,192.17,4.27,0.0,0.0,0.0,45,Month-To-Month,206.92,Yes,1,0.001,0,Low
+1174,Arun Das,Postpaid,Hyderabad,17.44,384,396.96,8.63,2.0,1.0,0.5,46,One Year,430.29,No,0,0.0,0,
+1175,Kavya Singh,Prepaid,Mumbai,6.97,84,155.25,4.31,2.0,1.0,0.5,36,One Year,156.05,No,0,0.012,0,Low
+1176,Sneha Shah,Prepaid,Mumbai,5.44,243,101.92,2.55,3.0,1.0,0.33,40,Two Year,91.32,No,0,0.0,0,
+1177,Anita Reddy,Prepaid,Mumbai,4.81,301,140.17,3.79,0.0,0.0,0.0,37,Two Year,145.48,No,0,0.002,0,Low
+1178,Arun Mishra,Prepaid,Mumbai,1.25,188,193.7,5.87,1.0,0.0,0.0,33,One Year,180.2,No,0,0.01,0,Low
+1179,Rekha Verma,Postpaid,Kolkata,17.69,453,374.61,10.41,0.0,0.0,0.0,36,Month-To-Month,426.16,No,0,0.0,0,
+1180,Sneha Patel,Prepaid,Delhi,7.64,216,177.88,59.29,1.0,0.0,0.0,3,One Year,179.17,No,0,0.911,1,High
+1181,Priya Shah,Postpaid,Chennai,28.5,276,363.99,40.44,2.0,0.0,0.0,9,One Year,317.2,No,0,0.013,0,Low
+1182,Suresh Rao,Prepaid,Bangalore,3.27,336,174.27,21.78,0.0,0.0,0.0,8,Month-To-Month,161.19,Yes,1,0.096,0,Low
+1183,Arun Mehta,Prepaid,Chennai,2.91,221,244.23,7.4,1.0,0.0,0.0,33,Month-To-Month,267.46,Yes,1,0.008,0,Low
+1184,Deepak Mehta,Prepaid,Chennai,2.92,95,129.15,2.19,0.0,0.0,0.0,59,Two Year,129.09,No,0,0.022,0,Low
+1185,Sneha Pillai,Prepaid,Hyderabad,4.24,237,133.45,22.24,0.0,0.0,0.0,6,Month-To-Month,145.04,Yes,1,0.457,0,Medium
+1186,Swati Nair,Postpaid,Delhi,22.09,383,287.27,7.01,0.0,0.0,0.0,41,One Year,295.28,No,0,0.0,0,
+1187,Sanjay Rao,Prepaid,Hyderabad,7.33,246,224.54,5.76,2.0,1.0,0.5,39,One Year,207.14,No,0,0.0,0,
+1188,Amit Mishra,Prepaid,Delhi,1.1,195,138.48,34.62,0.0,0.0,0.0,4,Month-To-Month,128.06,Yes,1,0.908,1,High
+1189,Ajay Pillai,Postpaid,Delhi,22.32,373,359.29,27.64,0.0,0.0,0.0,13,Month-To-Month,391.2,No,0,0.005,0,Low
+1190,Divya Kumar,Postpaid,Mumbai,5.66,247,458.84,9.36,0.0,0.0,0.0,49,Month-To-Month,407.25,No,0,0.001,0,Low
+1191,Geeta Nair,Prepaid,Kolkata,1.93,229,149.31,74.66,1.0,0.0,0.0,2,Month-To-Month,145.28,Yes,1,0.993,1,High
+1192,Ravi Shah,Prepaid,Mumbai,5.75,295,189.42,37.88,1.0,1.0,1.0,5,Month-To-Month,196.5,Yes,1,0.239,0,Low
+1193,Amit Mehta,Postpaid,Kolkata,11.64,357,406.01,9.23,0.0,0.0,0.0,44,Two Year,405.77,No,0,0.0,0,
+1194,Pooja Iyer,Prepaid,Hyderabad,2.33,518,128.06,4.74,0.0,0.0,0.0,27,Month-To-Month,124.15,Yes,1,0.0,0,
+1195,Sanjay Das,Prepaid,Kolkata,1.8,363,188.3,5.88,1.0,0.0,0.0,32,One Year,184.98,No,0,0.001,0,Low
+1196,Neha Nair,Prepaid,Hyderabad,5.25,396,96.61,4.6,1.0,1.0,1.0,21,Month-To-Month,97.01,No,0,0.001,0,Low
+1197,Nisha Rao,Postpaid,Chennai,14.32,229,289.07,36.13,0.0,0.0,0.0,8,Two Year,288.64,No,0,0.292,0,Low
+1198,Manoj Chopra,Postpaid,Chennai,3.09,177,331.33,8.72,0.0,0.0,0.0,38,Month-To-Month,366.95,No,0,0.015,0,Low
+1199,Arun Gupta,Prepaid,Kolkata,5.77,286,254.26,31.78,1.0,0.0,0.0,8,Month-To-Month,232.45,Yes,1,0.142,0,Low
+1200,Swati Singh,Prepaid,Kolkata,5.21,291,158.62,3.17,1.0,1.0,1.0,50,Two Year,156.66,No,0,0.0,0,
+1201,Meena Pandey,Prepaid,Hyderabad,4.51,172,130.37,43.46,0.0,0.0,0.0,3,Two Year,146.6,No,0,0.943,1,High
+1202,Asha Joshi,Postpaid,Mumbai,9.37,262,236.92,4.39,2.0,0.0,0.0,54,Month-To-Month,219.4,No,0,0.0,0,
+1203,Suresh Das,Prepaid,Hyderabad,5.42,320,138.64,3.15,3.0,1.0,0.33,44,Two Year,122.72,No,0,0.0,0,
+1204,Suresh Reddy,Prepaid,Mumbai,2.31,316,126.84,2.19,1.0,1.0,1.0,58,Month-To-Month,111.83,No,0,0.0,0,
+1205,Kavya Bose,Postpaid,Chennai,14.01,330,344.45,114.82,1.0,0.0,0.0,3,Month-To-Month,358.54,Yes,1,0.995,1,High
+1206,Arun Kumar,Prepaid,Delhi,3.97,309,160.72,7.31,3.0,1.0,0.33,22,Month-To-Month,180.45,Yes,1,0.001,0,Low
+1207,Ravi Chatterjee,Postpaid,Kolkata,8.22,229,354.37,59.06,0.0,0.0,0.0,6,Month-To-Month,352.42,Yes,1,0.882,1,High
+1208,Swati Shah,Prepaid,Mumbai,9.43,229,64.51,32.26,1.0,0.0,0.0,2,One Year,72.99,No,0,0.498,0,Medium
+1209,Deepak Nair,Prepaid,Hyderabad,1.67,160,124.29,5.4,1.0,1.0,1.0,23,Month-To-Month,109.97,Yes,1,0.066,0,Low
+1210,Karan Bose,Prepaid,Chennai,5.89,458,163.56,3.72,0.0,0.0,0.0,44,Month-To-Month,180.72,Yes,1,0.0,0,
+1211,Sanjay Iyer,Postpaid,Mumbai,18.96,281,431.81,215.9,3.0,1.0,0.33,2,One Year,466.4,No,0,1.0,1,High
+1212,Arun Sharma,Postpaid,Hyderabad,17.95,258,340.44,8.96,1.0,0.0,0.0,38,One Year,350.25,No,0,0.0,0,
+1213,Asha Joshi,Postpaid,Kolkata,10.83,187,323.89,19.05,0.0,0.0,0.0,17,Month-To-Month,335.66,No,0,0.102,0,Low
+1214,Rekha Reddy,Prepaid,Kolkata,3.89,574,204.87,5.85,0.0,0.0,0.0,35,One Year,188.23,No,0,0.0,0,
+1215,Rohit Sharma,Postpaid,Bangalore,13.77,173,332.67,9.78,1.0,0.0,0.0,34,Month-To-Month,337.09,No,0,0.006,0,Low
+1216,Neha Singh,Prepaid,Delhi,0.87,237,233.91,10.17,2.0,0.0,0.0,23,One Year,259.55,No,0,0.004,0,Low
+1217,Karan Chopra,Prepaid,Bangalore,5.35,322,116.13,3.87,1.0,0.0,0.0,30,One Year,124.85,No,0,0.001,0,Low
+1218,Deepak Bose,Postpaid,Chennai,9.69,340,289.72,5.57,1.0,0.0,0.0,52,Two Year,288.93,No,0,0.0,0,
+1219,Sneha Joshi,Prepaid,Mumbai,3.88,376,116.8,14.6,0.0,0.0,0.0,8,Month-To-Month,130.61,Yes,1,0.033,0,Low
+1220,Deepak Das,Prepaid,Chennai,5.32,461,213.67,9.71,1.0,1.0,1.0,22,Month-To-Month,206.74,Yes,1,0.0,0,
+1221,Meena Pillai,Prepaid,Hyderabad,2.13,331,130.68,2.97,2.0,0.0,0.0,44,Month-To-Month,128.15,No,0,0.0,0,
+1222,Arun Nair,Prepaid,Kolkata,2.72,174,231.18,3.99,3.0,3.0,1.0,58,Month-To-Month,217.19,Yes,1,0.0,0,
+1223,Rajesh Chatterjee,Prepaid,Bangalore,8.34,254,209.98,5.83,3.0,0.0,0.0,36,Month-To-Month,185.61,Yes,1,0.001,0,Low
+1224,Anita Chatterjee,Postpaid,Bangalore,15.5,311,450.22,90.04,0.0,0.0,0.0,5,Two Year,400.67,No,0,0.909,1,High
+1225,Arun Sharma,Prepaid,Bangalore,1.8,487,188.16,14.47,0.0,0.0,0.0,13,Month-To-Month,165.95,Yes,1,0.003,0,Low
+1226,Vinod Patel,Postpaid,Chennai,12.25,140,313.41,10.81,0.0,0.0,0.0,29,Month-To-Month,339.4,No,0,0.045,0,Low
+1227,Rohit Mehta,Postpaid,Kolkata,15.35,400,316.93,10.22,0.0,0.0,0.0,31,One Year,356.31,No,0,0.0,0,
+1228,Vinod Mehta,Prepaid,Mumbai,1.64,298,155.79,3.31,1.0,0.0,0.0,47,Month-To-Month,165.61,Yes,1,0.001,0,Low
+1229,Divya Kumar,Prepaid,Hyderabad,7.1,364,207.25,3.64,0.0,0.0,0.0,57,One Year,185.29,No,0,0.0,0,
+1230,Rajesh Das,Prepaid,Mumbai,8.78,270,118.32,2.15,3.0,1.0,0.33,55,Month-To-Month,103.64,No,0,0.0,0,
+1231,Swati Joshi,Postpaid,Chennai,11.44,196,311.99,19.5,0.0,0.0,0.0,16,Month-To-Month,281.63,No,0,0.126,0,Low
+1232,Meena Mehta,Prepaid,Hyderabad,3.74,355,185.42,4.41,0.0,0.0,0.0,42,Month-To-Month,209.99,Yes,1,0.001,0,Low
+1233,Rahul Gupta,Postpaid,Bangalore,18.65,345,397.71,13.26,2.0,1.0,0.5,30,Month-To-Month,350.64,No,0,0.0,0,
+1234,Priya Rao,Prepaid,Delhi,7.72,377,146.89,2.58,1.0,0.0,0.0,57,Two Year,150.35,No,0,0.0,0,
+1235,Rohit Das,Postpaid,Chennai,7.81,279,447.72,8.14,2.0,0.0,0.0,55,Month-To-Month,525.0,Yes,1,0.0,0,
+1236,Kavya Sharma,Prepaid,Chennai,6.28,220,142.57,8.91,0.0,0.0,0.0,16,One Year,145.08,No,0,0.062,0,Low
+1237,Sanjay Mishra,Prepaid,Kolkata,4.32,124,160.35,13.36,1.0,0.0,0.0,12,Month-To-Month,185.63,Yes,1,0.361,0,Low
+1238,Arun Sharma,Postpaid,Mumbai,8.34,362,369.94,21.76,0.0,0.0,0.0,17,Month-To-Month,365.13,No,0,0.006,0,Low
+1239,Divya Shah,Postpaid,Chennai,5.56,322,248.9,15.56,0.0,0.0,0.0,16,Two Year,261.57,No,0,0.012,0,Low
+1240,Rajesh Mishra,Prepaid,Chennai,0.89,183,248.64,20.72,1.0,0.0,0.0,12,Month-To-Month,250.64,Yes,1,0.244,0,Low
+1241,Rajesh Pandey,Postpaid,Bangalore,10.0,226,431.64,53.96,0.0,0.0,0.0,8,One Year,417.47,No,0,0.5,1,Medium
+1242,Priya Reddy,Prepaid,Bangalore,3.73,233,70.49,3.52,0.0,0.0,0.0,20,Two Year,63.47,No,0,0.046,0,Low
+1243,Rahul Das,Postpaid,Hyderabad,9.63,132,386.85,128.95,0.0,0.0,0.0,3,One Year,368.93,No,0,1.0,1,High
+1244,Rekha Gupta,Postpaid,Delhi,15.1,198,450.49,28.16,0.0,0.0,0.0,16,Two Year,459.58,No,0,0.044,0,Low
+1245,Arjun Mehta,Prepaid,Kolkata,2.08,167,197.27,6.58,1.0,0.0,0.0,30,Month-To-Month,180.02,No,0,0.036,0,Low
+1246,Rajesh Sharma,Prepaid,Delhi,6.54,239,129.15,2.87,1.0,0.0,0.0,45,Month-To-Month,115.14,Yes,1,0.003,0,Low
+1247,Nisha Nair,Prepaid,Hyderabad,8.71,206,204.44,8.89,2.0,1.0,0.5,23,Month-To-Month,230.76,Yes,1,0.007,0,Low
+1248,Sanjay Sharma,Prepaid,Bangalore,1.42,117,169.55,6.06,0.0,0.0,0.0,28,One Year,167.94,No,0,0.111,0,Low
+1249,Arjun Kumar,Postpaid,Mumbai,7.05,482,190.19,3.73,3.0,1.0,0.33,51,Two Year,203.33,No,0,0.0,0,
+1250,Deepak Nair,Prepaid,Bangalore,1.7,405,251.42,6.29,0.0,0.0,0.0,40,Month-To-Month,290.96,Yes,1,0.0,0,
+1251,Vinod Chatterjee,Prepaid,Kolkata,3.43,202,202.33,3.75,2.0,0.0,0.0,54,One Year,192.59,No,0,0.001,0,Low
+1252,Vinod Mehta,Postpaid,Bangalore,13.03,307,304.04,60.81,0.0,0.0,0.0,5,Month-To-Month,274.2,Yes,1,0.741,1,High
+1253,Ajay Sharma,Postpaid,Kolkata,15.68,322,269.57,13.48,0.0,0.0,0.0,20,One Year,299.9,No,0,0.003,0,Low
+1254,Meena Singh,Prepaid,Kolkata,2.27,399,153.7,3.84,0.0,0.0,0.0,40,Month-To-Month,140.53,Yes,1,0.001,0,Low
+1255,Rahul Das,Prepaid,Kolkata,4.01,198,223.05,3.98,1.0,0.0,0.0,56,Two Year,201.67,No,0,0.001,0,Low
+1256,Nisha Kumar,Prepaid,Hyderabad,6.49,389,157.07,3.57,1.0,0.0,0.0,44,One Year,139.7,No,0,0.0,0,
+1257,Anita Pandey,Prepaid,Kolkata,2.88,225,145.35,145.35,0.0,0.0,0.0,1,Month-To-Month,156.36,Yes,1,1.0,1,High
+1258,Ajay Reddy,Postpaid,Kolkata,22.29,146,493.38,8.66,0.0,0.0,0.0,57,Month-To-Month,440.05,Yes,1,0.001,0,Low
+1259,Manoj Rao,Prepaid,Mumbai,3.0,352,164.07,5.47,3.0,2.0,0.67,30,Month-To-Month,173.4,Yes,1,0.0,0,
+1260,Arun Mehta,Postpaid,Delhi,9.82,409,292.32,13.92,0.0,0.0,0.0,21,Month-To-Month,287.8,No,0,0.002,0,Low
+1261,Asha Chatterjee,Prepaid,Chennai,4.07,539,43.26,2.16,1.0,0.0,0.0,20,Month-To-Month,50.0,No,0,0.0,0,
+1262,Sunita Sharma,Postpaid,Delhi,22.29,160,268.39,44.73,0.0,0.0,0.0,6,Two Year,310.94,No,0,0.697,1,High
+1263,Rohit Rao,Postpaid,Kolkata,13.23,350,460.76,20.94,1.0,0.0,0.0,22,One Year,432.19,No,0,0.0,0,
+1264,Asha Mehta,Postpaid,Mumbai,13.23,239,291.95,16.22,3.0,3.0,1.0,18,One Year,296.9,No,0,0.001,0,Low
+1265,Amit Nair,Prepaid,Bangalore,6.05,358,260.85,32.61,0.0,0.0,0.0,8,Month-To-Month,281.43,Yes,1,0.081,0,Low
+1266,Sunita Reddy,Prepaid,Mumbai,4.34,133,206.75,5.3,0.0,0.0,0.0,39,Two Year,227.92,No,0,0.027,0,Low
+1267,Preeti Chopra,Prepaid,Kolkata,10.12,154,131.56,4.11,0.0,0.0,0.0,32,One Year,125.18,No,0,0.033,0,Low
+1268,Rohit Mishra,Postpaid,Mumbai,14.48,202,348.96,10.57,0.0,0.0,0.0,33,Month-To-Month,410.48,Yes,1,0.006,0,Low
+1269,Ravi Chatterjee,Postpaid,Mumbai,11.68,288,376.4,7.1,1.0,0.0,0.0,53,One Year,344.76,No,0,0.0,0,
+1270,Manoj Rao,Postpaid,Kolkata,12.25,216,444.35,27.77,1.0,0.0,0.0,16,One Year,508.54,No,0,0.012,0,Low
+1271,Nisha Shah,Postpaid,Hyderabad,16.77,346,431.49,35.96,2.0,1.0,0.5,12,Month-To-Month,475.5,No,0,0.002,0,Low
+1272,Vinod Joshi,Postpaid,Mumbai,8.2,383,235.43,6.2,0.0,0.0,0.0,38,Month-To-Month,243.75,No,0,0.0,0,
+1273,Preeti Nair,Prepaid,Chennai,8.4,340,75.37,1.45,0.0,0.0,0.0,52,Month-To-Month,75.71,No,0,0.001,0,Low
+1274,Vinod Kumar,Postpaid,Chennai,10.12,442,272.31,8.01,1.0,0.0,0.0,34,Month-To-Month,284.69,No,0,0.0,0,
+1275,Kavya Patel,Prepaid,Mumbai,9.91,322,159.01,11.36,0.0,0.0,0.0,14,Two Year,168.05,No,0,0.012,0,Low
+1276,Neha Singh,Prepaid,Hyderabad,1.36,158,286.51,7.96,2.0,2.0,1.0,36,Two Year,251.51,No,0,0.003,0,Low
+1277,Vinod Pillai,Prepaid,Bangalore,2.46,416,205.04,6.21,1.0,0.0,0.0,33,One Year,196.69,No,0,0.0,0,
+1278,Meena Iyer,Prepaid,Kolkata,2.57,219,141.51,6.15,1.0,0.0,0.0,23,Month-To-Month,165.12,Yes,1,0.029,0,Low
+1279,Preeti Singh,Prepaid,Chennai,1.65,371,171.81,3.44,0.0,0.0,0.0,50,Month-To-Month,175.49,Yes,1,0.001,0,Low
+1280,Swati Singh,Postpaid,Bangalore,8.86,437,364.04,8.09,0.0,0.0,0.0,45,One Year,327.23,No,0,0.0,0,
+1281,Vikram Sharma,Prepaid,Mumbai,3.38,326,160.6,80.3,0.0,0.0,0.0,2,One Year,170.77,No,0,0.977,1,High
+1282,Pooja Rao,Postpaid,Bangalore,9.61,130,317.25,7.74,0.0,0.0,0.0,41,Month-To-Month,361.18,No,0,0.016,0,Low
+1283,Anita Rao,Prepaid,Delhi,1.76,188,179.09,8.53,2.0,1.0,0.5,21,One Year,166.21,No,0,0.012,0,Low
+1284,Rahul Singh,Prepaid,Chennai,12.56,412,234.25,117.12,2.0,1.0,0.5,2,Two Year,227.03,No,0,0.968,1,High
+1285,Manoj Shah,Prepaid,Mumbai,9.58,263,209.13,7.75,0.0,0.0,0.0,27,Month-To-Month,204.81,No,0,0.012,0,Low
+1286,Neha Sharma,Prepaid,Kolkata,2.73,288,157.81,2.77,0.0,0.0,0.0,57,Month-To-Month,182.21,Yes,1,0.001,0,Low
+1287,Rohit Shah,Postpaid,Hyderabad,11.32,356,209.37,23.26,1.0,0.0,0.0,9,One Year,234.68,No,0,0.007,0,Low
+1288,Nisha Chopra,Prepaid,Mumbai,2.75,350,157.6,157.6,2.0,0.0,0.0,1,Month-To-Month,152.01,Yes,1,1.0,1,High
+1289,Nisha Rao,Postpaid,Kolkata,5.86,308,216.8,19.71,2.0,1.0,0.5,11,Month-To-Month,237.63,Yes,1,0.01,0,Low
+1290,Pooja Shah,Prepaid,Hyderabad,1.57,259,147.01,49.0,1.0,0.0,0.0,3,Month-To-Month,146.83,Yes,1,0.85,1,High
+1291,Anita Pandey,Postpaid,Hyderabad,13.77,249,454.85,8.75,0.0,0.0,0.0,52,Month-To-Month,448.81,No,0,0.0,0,
+1292,Rahul Chopra,Postpaid,Mumbai,14.89,366,303.32,13.19,0.0,0.0,0.0,23,One Year,324.39,No,0,0.001,0,Low
+1293,Geeta Chatterjee,Postpaid,Bangalore,12.06,335,361.09,13.89,1.0,0.0,0.0,26,One Year,318.27,No,0,0.0,0,
+1294,Anita Singh,Prepaid,Bangalore,3.86,254,160.51,40.13,0.0,0.0,0.0,4,Month-To-Month,145.56,Yes,1,0.811,1,High
+1295,Rohit Patel,Prepaid,Hyderabad,3.98,388,125.11,6.95,1.0,1.0,1.0,18,Two Year,117.29,No,0,0.001,0,Low
+1296,Kavya Reddy,Prepaid,Bangalore,4.45,267,92.97,1.69,1.0,1.0,1.0,55,Two Year,106.45,No,0,0.0,0,
+1297,Pooja Gupta,Postpaid,Delhi,19.77,195,289.38,48.23,1.0,0.0,0.0,6,Two Year,328.16,No,0,0.446,0,Medium
+1298,Arun Mishra,Prepaid,Hyderabad,3.12,204,148.8,4.25,0.0,0.0,0.0,35,Month-To-Month,149.12,Yes,1,0.029,0,Low
+1299,Deepak Chatterjee,Prepaid,Hyderabad,3.62,182,240.79,10.94,3.0,0.0,0.0,22,Month-To-Month,268.08,Yes,1,0.008,0,Low
+1300,Vinod Bose,Postpaid,Kolkata,9.31,253,546.79,12.72,3.0,2.0,0.67,43,Two Year,478.18,No,0,0.0,0,
+1301,Rahul Sharma,Prepaid,Bangalore,4.97,403,219.43,14.63,0.0,0.0,0.0,15,One Year,244.47,No,0,0.003,0,Low
+1302,Sneha Reddy,Postpaid,Hyderabad,8.69,199,315.37,14.34,1.0,0.0,0.0,22,Month-To-Month,316.56,No,0,0.021,0,Low
+1303,Swati Pandey,Prepaid,Delhi,1.9,299,162.64,4.4,2.0,0.0,0.0,37,Month-To-Month,169.55,Yes,1,0.001,0,Low
+1304,Geeta Singh,Prepaid,Kolkata,4.31,214,297.45,5.72,0.0,0.0,0.0,52,Month-To-Month,285.51,Yes,1,0.003,0,Low
+1305,Rekha Das,Postpaid,Mumbai,12.56,254,387.49,9.23,1.0,1.0,1.0,42,Two Year,436.01,No,0,0.0,0,
+1306,Swati Gupta,Prepaid,Hyderabad,11.7,129,250.31,20.86,0.0,0.0,0.0,12,One Year,255.65,No,0,0.299,0,Low
+1307,Meena Nair,Postpaid,Delhi,12.76,258,441.81,9.4,0.0,0.0,0.0,47,Month-To-Month,473.84,No,0,0.001,0,Low
+1308,Vinod Gupta,Prepaid,Chennai,1.78,261,224.08,4.57,0.0,0.0,0.0,49,Month-To-Month,200.73,No,0,0.003,0,Low
+1309,Suresh Sharma,Prepaid,Delhi,5.53,334,187.57,4.47,0.0,0.0,0.0,42,One Year,217.56,No,0,0.001,0,Low
+1310,Sneha Iyer,Postpaid,Delhi,9.05,302,380.11,10.0,3.0,3.0,1.0,38,Two Year,338.14,No,0,0.0,0,
+1311,Sunita Pillai,Postpaid,Kolkata,6.99,160,307.66,17.09,1.0,0.0,0.0,18,Month-To-Month,279.72,No,0,0.091,0,Low
+1312,Divya Reddy,Postpaid,Mumbai,7.97,388,222.61,4.95,0.0,0.0,0.0,45,One Year,237.0,No,0,0.0,0,
+1313,Pooja Nair,Prepaid,Chennai,6.07,301,253.99,7.26,1.0,0.0,0.0,35,Two Year,233.71,No,0,0.001,0,Low
+1314,Vinod Reddy,Postpaid,Bangalore,6.12,300,308.96,10.3,0.0,0.0,0.0,30,Month-To-Month,359.52,No,0,0.003,0,Low
+1315,Anita Verma,Prepaid,Bangalore,9.18,279,164.13,6.84,1.0,0.0,0.0,24,One Year,143.97,No,0,0.003,0,Low
+1316,Neha Mishra,Prepaid,Delhi,1.76,228,208.09,4.95,0.0,0.0,0.0,42,Month-To-Month,206.44,Yes,1,0.01,0,Low
+1317,Meena Joshi,Postpaid,Kolkata,8.23,302,312.93,10.43,0.0,0.0,0.0,30,One Year,332.56,No,0,0.002,0,Low
+1318,Vikram Patel,Prepaid,Kolkata,6.63,328,166.93,11.92,0.0,0.0,0.0,14,One Year,174.11,No,0,0.012,0,Low
+1319,Manoj Kumar,Postpaid,Bangalore,7.01,105,358.69,59.78,2.0,1.0,0.5,6,One Year,412.32,No,0,0.804,1,High
+1320,Priya Sharma,Prepaid,Chennai,2.61,226,218.93,72.98,2.0,0.0,0.0,3,One Year,190.9,No,0,0.948,1,High
+1321,Karan Chatterjee,Prepaid,Mumbai,1.22,255,178.45,11.15,1.0,1.0,1.0,16,Month-To-Month,207.07,Yes,1,0.023,0,Low
+1322,Amit Das,Prepaid,Chennai,1.62,306,263.81,37.69,0.0,0.0,0.0,7,Two Year,252.09,No,0,0.268,0,Low
+1323,Meena Mehta,Postpaid,Hyderabad,13.8,399,386.29,7.43,1.0,1.0,1.0,52,One Year,393.04,No,0,0.0,0,
+1324,Sanjay Pandey,Postpaid,Hyderabad,9.25,203,393.36,28.1,0.0,0.0,0.0,14,Month-To-Month,346.67,No,0,0.174,0,Low
+1325,Anita Gupta,Postpaid,Mumbai,10.39,230,472.46,52.5,0.0,0.0,0.0,9,One Year,511.43,No,0,0.306,0,Low
+1326,Swati Chopra,Postpaid,Bangalore,12.42,229,370.85,24.72,0.0,0.0,0.0,15,One Year,367.31,No,0,0.035,0,Low
+1327,Arjun Singh,Postpaid,Mumbai,20.57,200,431.99,20.57,2.0,1.0,0.5,21,Month-To-Month,434.29,Yes,1,0.003,0,Low
+1328,Karan Chatterjee,Postpaid,Kolkata,11.66,245,309.9,8.85,3.0,2.0,0.67,35,Two Year,292.12,No,0,0.0,0,
+1329,Preeti Reddy,Prepaid,Hyderabad,2.65,357,113.68,56.84,1.0,0.0,0.0,2,Two Year,130.61,No,0,0.616,1,Medium
+1330,Sanjay Gupta,Prepaid,Delhi,3.71,175,205.84,7.62,0.0,0.0,0.0,27,Month-To-Month,226.66,Yes,1,0.072,0,Low
+1331,Geeta Nair,Prepaid,Delhi,5.62,323,135.77,67.89,1.0,0.0,0.0,2,Two Year,148.48,No,0,0.877,1,High
+1332,Vinod Chatterjee,Postpaid,Bangalore,3.68,110,391.48,11.19,3.0,1.0,0.33,35,Month-To-Month,365.38,No,0,0.004,0,Low
+1333,Neha Rao,Postpaid,Kolkata,9.06,224,388.51,21.58,1.0,0.0,0.0,18,Month-To-Month,428.47,Yes,1,0.019,0,Low
+1334,Meena Chopra,Prepaid,Chennai,2.97,247,148.84,10.63,0.0,0.0,0.0,14,Month-To-Month,145.63,Yes,1,0.121,0,Low
+1335,Manoj Pandey,Postpaid,Kolkata,15.53,447,161.95,8.1,0.0,0.0,0.0,20,Two Year,177.08,No,0,0.0,0,
+1336,Arun Joshi,Postpaid,Delhi,18.72,253,410.64,22.81,3.0,1.0,0.33,18,One Year,370.45,No,0,0.001,0,Low
+1337,Preeti Patel,Prepaid,Delhi,1.75,60,126.16,12.62,2.0,1.0,0.5,10,Month-To-Month,111.38,Yes,1,0.523,1,Medium
+1338,Neha Mehta,Postpaid,Hyderabad,8.15,80,243.22,9.73,1.0,1.0,1.0,25,Month-To-Month,241.88,No,0,0.093,0,Low
+1339,Sneha Chopra,Postpaid,Kolkata,10.71,283,385.74,192.87,1.0,0.0,0.0,2,One Year,403.62,No,0,1.0,1,High
+1340,Arun Shah,Prepaid,Kolkata,0.8,341,143.58,5.74,1.0,0.0,0.0,25,Month-To-Month,156.03,Yes,1,0.003,0,Low
+1341,Swati Mehta,Postpaid,Delhi,14.2,318,145.41,2.69,1.0,1.0,1.0,54,Two Year,168.12,No,0,0.0,0,
+1342,Karan Verma,Prepaid,Chennai,4.09,297,147.91,4.48,0.0,0.0,0.0,33,Two Year,158.95,No,0,0.004,0,Low
+1343,Vinod Reddy,Postpaid,Bangalore,18.82,396,333.06,9.25,0.0,0.0,0.0,36,One Year,318.33,No,0,0.0,0,
+1344,Meena Chopra,Postpaid,Bangalore,8.85,226,339.01,10.94,3.0,0.0,0.0,31,Two Year,335.63,No,0,0.0,0,
+1345,Preeti Bose,Postpaid,Kolkata,9.62,369,329.25,23.52,2.0,0.0,0.0,14,Month-To-Month,290.55,No,0,0.002,0,Low
+1346,Rekha Das,Prepaid,Bangalore,1.89,117,121.18,121.18,0.0,0.0,0.0,1,Two Year,125.07,No,0,1.0,1,High
+1347,Sanjay Iyer,Postpaid,Delhi,12.71,190,511.85,11.13,0.0,0.0,0.0,46,One Year,483.72,No,0,0.001,0,Low
+1348,Arun Sharma,Postpaid,Delhi,15.95,99,340.31,21.27,3.0,0.0,0.0,16,One Year,341.4,No,0,0.021,0,Low
+1349,Arjun Rao,Prepaid,Kolkata,2.61,253,109.31,2.02,2.0,1.0,0.5,54,Month-To-Month,108.9,Yes,1,0.001,0,Low
+1350,Kavya Pandey,Postpaid,Kolkata,6.83,275,322.56,7.01,0.0,0.0,0.0,46,Two Year,346.71,No,0,0.001,0,Low
+1351,Swati Pillai,Prepaid,Hyderabad,11.17,291,137.25,2.64,3.0,3.0,1.0,52,Month-To-Month,139.13,Yes,1,0.0,0,
+1352,Divya Patel,Postpaid,Kolkata,6.91,286,351.03,117.01,0.0,0.0,0.0,3,Month-To-Month,354.13,Yes,1,0.999,1,High
+1353,Anita Mishra,Prepaid,Chennai,5.61,187,137.35,3.92,1.0,1.0,1.0,35,Month-To-Month,129.33,Yes,1,0.013,0,Low
+1354,Divya Mehta,Prepaid,Bangalore,3.16,261,243.49,5.94,2.0,1.0,0.5,41,One Year,215.06,No,0,0.0,0,
+1355,Rekha Rao,Prepaid,Kolkata,4.65,130,98.39,16.4,2.0,0.0,0.0,6,One Year,103.7,No,0,0.281,0,Low
+1356,Rahul Iyer,Postpaid,Mumbai,21.32,416,260.68,10.43,0.0,0.0,0.0,25,One Year,302.18,No,0,0.0,0,
+1357,Rohit Nair,Prepaid,Hyderabad,5.85,250,231.97,17.84,1.0,0.0,0.0,13,Two Year,232.23,No,0,0.029,0,Low
+1358,Rahul Joshi,Postpaid,Mumbai,14.07,231,274.08,5.17,1.0,1.0,1.0,53,Month-To-Month,270.47,No,0,0.0,0,
+1359,Karan Reddy,Prepaid,Delhi,4.67,439,194.18,5.71,1.0,0.0,0.0,34,One Year,215.63,No,0,0.0,0,
+1360,Ajay Joshi,Prepaid,Bangalore,7.07,156,235.01,29.38,2.0,1.0,0.5,8,Month-To-Month,217.98,Yes,1,0.293,0,Low
+1361,Vinod Singh,Prepaid,Kolkata,5.34,167,151.81,7.23,0.0,0.0,0.0,21,Two Year,132.53,No,0,0.102,0,Low
+1362,Vinod Joshi,Postpaid,Mumbai,17.72,170,363.28,10.68,0.0,0.0,0.0,34,Two Year,320.43,No,0,0.006,0,Low
+1363,Vinod Pillai,Prepaid,Bangalore,8.34,273,142.73,35.68,1.0,0.0,0.0,4,One Year,157.0,No,0,0.25,0,Low
+1364,Arun Sharma,Postpaid,Delhi,5.94,323,529.88,21.2,0.0,0.0,0.0,25,One Year,476.25,No,0,0.001,0,Low
+1365,Pooja Singh,Postpaid,Chennai,8.97,354,272.13,18.14,3.0,1.0,0.33,15,Month-To-Month,256.4,No,0,0.001,0,Low
+1366,Geeta Shah,Postpaid,Hyderabad,10.12,537,412.09,103.02,1.0,0.0,0.0,4,Month-To-Month,417.88,Yes,1,0.485,0,Medium
+1367,Pooja Mehta,Prepaid,Bangalore,2.31,55,154.97,3.44,0.0,0.0,0.0,45,Two Year,153.1,No,0,0.094,0,Low
+1368,Rekha Pandey,Prepaid,Bangalore,3.23,341,202.58,16.88,0.0,0.0,0.0,12,Month-To-Month,183.35,Yes,1,0.036,0,Low
+1369,Meena Das,Postpaid,Chennai,14.79,224,327.0,10.22,1.0,1.0,1.0,32,Month-To-Month,328.96,No,0,0.002,0,Low
+1370,Preeti Chopra,Prepaid,Bangalore,1.33,221,229.17,7.16,0.0,0.0,0.0,32,Month-To-Month,238.23,Yes,1,0.021,0,Low
+1371,Suresh Rao,Postpaid,Delhi,20.4,218,375.65,13.42,1.0,0.0,0.0,28,Two Year,376.41,No,0,0.002,0,Low
+1372,Preeti Verma,Prepaid,Delhi,2.46,189,169.32,13.02,3.0,0.0,0.0,13,Month-To-Month,165.39,Yes,1,0.037,0,Low
+1373,Manoj Chatterjee,Postpaid,Chennai,10.2,448,238.35,7.69,1.0,0.0,0.0,31,Month-To-Month,262.87,No,0,0.0,0,
+1374,Priya Bose,Postpaid,Hyderabad,14.41,364,378.13,27.01,1.0,0.0,0.0,14,One Year,337.53,No,0,0.002,0,Low
+1375,Swati Kumar,Postpaid,Kolkata,13.25,282,371.48,18.57,2.0,0.0,0.0,20,Two Year,353.03,No,0,0.001,0,Low
+1376,Vikram Pillai,Prepaid,Mumbai,3.87,415,193.72,10.76,1.0,0.0,0.0,18,Month-To-Month,186.27,Yes,1,0.002,0,Low
+1377,Geeta Chopra,Postpaid,Kolkata,10.23,129,308.21,10.63,1.0,0.0,0.0,29,Month-To-Month,350.3,No,0,0.025,0,Low
+1378,Priya Mehta,Prepaid,Bangalore,2.43,147,143.8,23.97,3.0,1.0,0.33,6,Month-To-Month,139.44,Yes,1,0.265,0,Low
+1379,Sanjay Mehta,Prepaid,Mumbai,0.79,62,175.87,5.5,1.0,1.0,1.0,32,Month-To-Month,198.43,Yes,1,0.115,0,Low
+1380,Manoj Bose,Postpaid,Chennai,15.51,210,321.46,11.08,0.0,0.0,0.0,29,Month-To-Month,367.97,No,0,0.01,0,Low
+1381,Anita Iyer,Postpaid,Chennai,8.81,296,420.74,9.78,0.0,0.0,0.0,43,One Year,417.32,No,0,0.0,0,
+1382,Rekha Shah,Postpaid,Hyderabad,20.17,290,291.82,145.91,1.0,1.0,1.0,2,One Year,300.59,No,0,1.0,1,High
+1383,Meena Mehta,Postpaid,Mumbai,13.34,295,539.0,23.43,0.0,0.0,0.0,23,One Year,525.01,No,0,0.002,0,Low
+1384,Ravi Patel,Prepaid,Delhi,2.56,139,131.62,6.93,2.0,1.0,0.5,19,Month-To-Month,150.12,No,0,0.062,0,Low
+1385,Sneha Mehta,Prepaid,Mumbai,7.55,360,87.55,2.82,1.0,1.0,1.0,31,Two Year,89.4,No,0,0.0,0,
+1386,Rekha Das,Postpaid,Bangalore,12.11,304,309.86,6.08,2.0,1.0,0.5,51,Month-To-Month,343.36,No,0,0.0,0,
+1387,Nisha Verma,Prepaid,Delhi,5.1,353,137.46,27.49,0.0,0.0,0.0,5,Two Year,119.93,No,0,0.116,0,Low
+1388,Arun Shah,Prepaid,Chennai,2.11,91,218.53,11.5,2.0,0.0,0.0,19,One Year,214.59,No,0,0.089,0,Low
+1389,Priya Sharma,Prepaid,Mumbai,7.56,311,260.63,7.67,2.0,1.0,0.5,34,Month-To-Month,246.75,No,0,0.0,0,
+1390,Karan Rao,Prepaid,Kolkata,3.93,161,200.41,20.04,1.0,1.0,1.0,10,One Year,211.49,No,0,0.156,0,Low
+1391,Rekha Sharma,Prepaid,Hyderabad,1.55,240,205.17,8.21,1.0,0.0,0.0,25,Month-To-Month,233.57,Yes,1,0.014,0,Low
+1392,Rekha Sharma,Prepaid,Kolkata,5.91,333,321.12,160.56,2.0,0.0,0.0,2,One Year,281.0,No,0,1.0,1,High
+1393,Vikram Nair,Prepaid,Hyderabad,3.53,289,213.7,19.43,1.0,0.0,0.0,11,Month-To-Month,228.34,Yes,1,0.043,0,Low
+1394,Kavya Shah,Prepaid,Bangalore,7.01,195,192.04,3.84,2.0,1.0,0.5,50,Month-To-Month,196.53,No,0,0.001,0,Low
+1395,Rekha Mishra,Postpaid,Kolkata,7.45,281,305.83,9.87,0.0,0.0,0.0,31,Two Year,292.67,No,0,0.003,0,Low
+1396,Pooja Mishra,Prepaid,Mumbai,3.14,127,229.56,4.1,1.0,0.0,0.0,56,Month-To-Month,267.74,Yes,1,0.005,0,Low
+1397,Asha Chatterjee,Prepaid,Mumbai,4.37,395,293.43,19.56,3.0,1.0,0.33,15,Two Year,268.44,No,0,0.0,0,
+1398,Meena Chopra,Postpaid,Kolkata,7.16,259,357.19,39.69,0.0,0.0,0.0,9,Month-To-Month,353.31,Yes,1,0.334,0,Low
+1399,Arjun Mehta,Prepaid,Mumbai,8.87,392,104.83,4.56,1.0,1.0,1.0,23,One Year,112.3,No,0,0.0,0,
+1400,Anita Joshi,Postpaid,Bangalore,15.31,227,263.59,13.87,0.0,0.0,0.0,19,One Year,303.51,No,0,0.014,0,Low
+1401,Ravi Joshi,Postpaid,Delhi,6.57,228,316.48,35.16,0.0,0.0,0.0,9,One Year,352.13,No,0,0.246,0,Low
+1402,Neha Kumar,Prepaid,Bangalore,3.53,204,210.24,6.01,0.0,0.0,0.0,35,Month-To-Month,187.96,Yes,1,0.023,0,Low
+1403,Sanjay Rao,Prepaid,Hyderabad,2.21,368,179.15,8.53,1.0,0.0,0.0,21,Month-To-Month,169.68,No,0,0.003,0,Low
+1404,Geeta Pillai,Postpaid,Bangalore,4.58,209,231.73,25.75,2.0,0.0,0.0,9,Month-To-Month,250.53,Yes,1,0.126,0,Low
+1405,Rohit Mehta,Postpaid,Hyderabad,15.97,344,237.49,8.48,1.0,1.0,1.0,28,Month-To-Month,273.08,No,0,0.0,0,
+1406,Sanjay Reddy,Prepaid,Mumbai,4.77,242,197.76,4.3,0.0,0.0,0.0,46,One Year,187.06,No,0,0.002,0,Low
+1407,Priya Shah,Postpaid,Delhi,8.91,82,471.42,9.24,0.0,0.0,0.0,51,Two Year,461.4,No,0,0.005,0,Low
+1408,Rahul Bose,Prepaid,Mumbai,3.45,223,201.53,28.79,1.0,0.0,0.0,7,Two Year,207.47,No,0,0.245,0,Low
+1409,Nisha Bose,Postpaid,Chennai,10.92,162,353.49,22.09,1.0,0.0,0.0,16,One Year,368.57,No,0,0.046,0,Low
+1410,Priya Mishra,Prepaid,Mumbai,4.14,283,237.79,14.86,1.0,1.0,1.0,16,One Year,259.87,No,0,0.006,0,Low
+1411,Ravi Iyer,Postpaid,Hyderabad,10.66,161,367.27,11.13,0.0,0.0,0.0,33,One Year,349.49,No,0,0.01,0,Low
+1412,Kavya Gupta,Postpaid,Mumbai,6.5,373,542.05,135.51,2.0,0.0,0.0,4,Month-To-Month,474.98,Yes,1,0.992,1,High
+1413,Karan Kumar,Postpaid,Mumbai,10.18,271,360.62,90.16,1.0,1.0,1.0,4,Two Year,399.48,No,0,0.927,1,High
+1414,Karan Pillai,Prepaid,Delhi,2.29,262,245.51,6.3,0.0,0.0,0.0,39,One Year,238.56,No,0,0.003,0,Low
+1415,Ravi Pillai,Prepaid,Mumbai,3.29,346,203.18,5.08,0.0,0.0,0.0,40,One Year,207.91,No,0,0.001,0,Low
+1416,Rajesh Bose,Prepaid,Delhi,2.83,376,169.23,9.95,0.0,0.0,0.0,17,Month-To-Month,171.98,Yes,1,0.009,0,Low
+1417,Geeta Chatterjee,Prepaid,Kolkata,4.38,278,166.79,4.51,3.0,1.0,0.33,37,Month-To-Month,180.07,Yes,1,0.0,0,
+1418,Ravi Pandey,Prepaid,Chennai,14.31,203,127.49,3.27,1.0,0.0,0.0,39,Month-To-Month,116.16,No,0,0.006,0,Low
+1419,Swati Verma,Postpaid,Delhi,10.94,103,385.86,7.42,1.0,1.0,1.0,52,Two Year,387.57,No,0,0.001,0,Low
+1420,Asha Bose,Prepaid,Hyderabad,6.53,211,236.93,8.17,1.0,0.0,0.0,29,One Year,233.88,No,0,0.006,0,Low
+1421,Arun Nair,Prepaid,Kolkata,1.13,218,107.72,2.07,2.0,2.0,1.0,52,Month-To-Month,114.42,Yes,1,0.001,0,Low
+1422,Kavya Shah,Postpaid,Delhi,9.67,291,253.43,7.04,1.0,1.0,1.0,36,Two Year,280.17,No,0,0.0,0,
+1423,Priya Singh,Postpaid,Delhi,8.3,245,305.14,8.03,2.0,2.0,1.0,38,Month-To-Month,348.42,No,0,0.0,0,
+1424,Vikram Shah,Postpaid,Chennai,6.69,349,331.05,8.49,3.0,1.0,0.33,39,Month-To-Month,311.07,No,0,0.0,0,
+1425,Vikram Shah,Postpaid,Hyderabad,13.07,219,260.22,5.2,1.0,1.0,1.0,50,Month-To-Month,286.31,No,0,0.001,0,Low
+1426,Arun Pandey,Prepaid,Bangalore,4.43,274,210.0,5.68,2.0,0.0,0.0,37,One Year,198.67,No,0,0.001,0,Low
+1427,Ajay Sharma,Prepaid,Bangalore,5.04,398,154.84,2.98,0.0,0.0,0.0,52,Two Year,160.11,No,0,0.0,0,
+1428,Ravi Verma,Postpaid,Delhi,17.52,314,219.01,6.26,1.0,1.0,1.0,35,Month-To-Month,224.69,No,0,0.0,0,
+1429,Rekha Kumar,Postpaid,Mumbai,20.14,274,240.23,34.32,0.0,0.0,0.0,7,Two Year,242.47,No,0,0.131,0,Low
+1430,Meena Iyer,Prepaid,Hyderabad,6.13,220,195.6,7.24,0.0,0.0,0.0,27,Month-To-Month,203.68,Yes,1,0.03,0,Low
+1431,Sunita Das,Postpaid,Kolkata,13.12,217,325.49,11.62,1.0,0.0,0.0,28,Two Year,369.8,No,0,0.003,0,Low
+1432,Sunita Chatterjee,Prepaid,Mumbai,2.0,195,232.46,10.57,0.0,0.0,0.0,22,One Year,246.54,No,0,0.043,0,Low
+1433,Divya Das,Prepaid,Mumbai,1.13,226,233.25,16.66,1.0,0.0,0.0,14,Two Year,222.33,No,0,0.049,0,Low
+1434,Sunita Das,Prepaid,Hyderabad,3.41,356,215.19,30.74,1.0,1.0,1.0,7,Month-To-Month,204.99,Yes,1,0.043,0,Low
+1435,Amit Singh,Postpaid,Delhi,23.25,258,416.8,11.26,1.0,0.0,0.0,37,Two Year,445.36,No,0,0.0,0,
+1436,Amit Singh,Postpaid,Delhi,14.16,145,299.0,13.59,2.0,0.0,0.0,22,One Year,302.62,No,0,0.009,0,Low
+1437,Ajay Rao,Prepaid,Delhi,5.0,457,113.36,22.67,1.0,0.0,0.0,5,Month-To-Month,124.84,Yes,1,0.011,0,Low
+1438,Sneha Pillai,Postpaid,Delhi,17.95,312,204.2,3.71,0.0,0.0,0.0,55,Two Year,223.63,No,0,0.0,0,
+1439,Preeti Chatterjee,Prepaid,Bangalore,3.01,139,83.34,41.67,2.0,1.0,0.5,2,Month-To-Month,97.26,Yes,1,0.914,1,High
+1440,Kavya Sharma,Prepaid,Delhi,2.32,236,231.57,8.58,0.0,0.0,0.0,27,Two Year,206.94,No,0,0.018,0,Low
+1441,Manoj Nair,Postpaid,Bangalore,10.26,291,267.74,12.75,0.0,0.0,0.0,21,Month-To-Month,293.19,No,0,0.01,0,Low
+1442,Preeti Verma,Postpaid,Bangalore,10.84,450,277.48,5.14,0.0,0.0,0.0,54,One Year,302.18,No,0,0.0,0,
+1443,Asha Sharma,Postpaid,Delhi,21.54,169,212.83,5.6,0.0,0.0,0.0,38,One Year,227.9,No,0,0.005,0,Low
+1444,Pooja Reddy,Postpaid,Chennai,26.95,378,313.2,20.88,1.0,1.0,1.0,15,Month-To-Month,352.61,No,0,0.001,0,Low
+1445,Vinod Mishra,Postpaid,Kolkata,13.23,420,382.45,18.21,0.0,0.0,0.0,21,Month-To-Month,367.11,No,0,0.001,0,Low
+1446,Ravi Shah,Postpaid,Mumbai,8.08,217,292.17,29.22,2.0,0.0,0.0,10,Month-To-Month,334.85,Yes,1,0.074,0,Low
+1447,Suresh Chopra,Prepaid,Bangalore,4.96,252,201.72,8.77,0.0,0.0,0.0,23,Month-To-Month,226.58,Yes,1,0.026,0,Low
+1448,Geeta Patel,Prepaid,Hyderabad,4.24,176,201.44,3.47,2.0,1.0,0.5,58,Month-To-Month,193.06,Yes,1,0.001,0,Low
+1449,Vinod Bose,Prepaid,Hyderabad,2.18,260,187.14,3.34,1.0,1.0,1.0,56,One Year,196.6,No,0,0.0,0,
+1450,Swati Bose,Prepaid,Kolkata,1.81,276,233.68,5.99,0.0,0.0,0.0,39,Month-To-Month,219.96,Yes,1,0.005,0,Low
+1451,Ajay Iyer,Postpaid,Hyderabad,8.42,346,290.51,58.1,0.0,0.0,0.0,5,Month-To-Month,285.59,Yes,1,0.592,1,Medium
+1452,Rahul Shah,Prepaid,Chennai,3.82,389,151.01,151.01,0.0,0.0,0.0,1,One Year,162.94,No,0,1.0,1,High
+1453,Vinod Singh,Prepaid,Hyderabad,2.25,205,179.45,13.8,1.0,0.0,0.0,13,Month-To-Month,171.68,Yes,1,0.125,0,Low
+1454,Asha Joshi,Prepaid,Mumbai,3.88,83,168.65,8.03,0.0,0.0,0.0,21,Two Year,190.59,No,0,0.296,0,Low
+1455,Anita Rao,Postpaid,Mumbai,8.9,278,467.94,18.0,0.0,0.0,0.0,26,Two Year,462.88,No,0,0.002,0,Low
+1456,Preeti Pandey,Prepaid,Bangalore,6.88,309,225.47,4.51,1.0,0.0,0.0,50,One Year,229.8,No,0,0.0,0,
+1457,Divya Bose,Postpaid,Delhi,6.79,305,298.77,6.64,0.0,0.0,0.0,45,One Year,321.13,No,0,0.0,0,
+1458,Ajay Mishra,Prepaid,Chennai,3.57,247,189.47,9.02,2.0,0.0,0.0,21,Two Year,183.74,No,0,0.006,0,Low
+1459,Vinod Mishra,Prepaid,Bangalore,4.48,292,266.31,5.02,0.0,0.0,0.0,53,Month-To-Month,239.62,Yes,1,0.001,0,Low
+1460,Ajay Kumar,Postpaid,Chennai,12.72,432,280.47,15.58,2.0,0.0,0.0,18,Month-To-Month,243.96,No,0,0.0,0,
+1461,Meena Mishra,Postpaid,Delhi,16.89,318,315.83,8.54,1.0,1.0,1.0,37,Month-To-Month,305.94,No,0,0.0,0,
+1462,Geeta Chatterjee,Prepaid,Hyderabad,1.47,243,151.32,3.36,3.0,1.0,0.33,45,One Year,155.77,No,0,0.0,0,
+1463,Neha Rao,Postpaid,Hyderabad,24.95,230,294.26,9.2,2.0,2.0,1.0,32,Month-To-Month,320.7,No,0,0.0,0,
+1464,Divya Mishra,Postpaid,Delhi,7.34,263,357.42,9.93,0.0,0.0,0.0,36,One Year,385.51,No,0,0.001,0,Low
+1465,Sunita Bose,Prepaid,Bangalore,7.72,444,145.79,8.58,2.0,1.0,0.5,17,Two Year,146.69,No,0,0.0,0,
+1466,Arun Chopra,Postpaid,Delhi,16.02,262,390.57,11.16,1.0,1.0,1.0,35,Two Year,406.77,No,0,0.0,0,
+1467,Manoj Verma,Postpaid,Kolkata,11.19,278,507.27,10.35,2.0,0.0,0.0,49,One Year,451.25,No,0,0.0,0,
+1468,Sneha Chatterjee,Postpaid,Mumbai,8.05,232,307.84,27.99,0.0,0.0,0.0,11,Month-To-Month,320.5,Yes,1,0.202,0,Low
+1469,Divya Sharma,Postpaid,Bangalore,6.43,390,299.88,14.28,0.0,0.0,0.0,21,Two Year,311.71,No,0,0.001,0,Low
+1470,Arun Nair,Postpaid,Chennai,7.42,476,411.71,7.92,2.0,0.0,0.0,52,One Year,426.62,No,0,0.0,0,
+1471,Neha Shah,Postpaid,Kolkata,11.5,325,476.68,8.67,1.0,0.0,0.0,55,Month-To-Month,432.96,Yes,1,0.0,0,
+1472,Neha Reddy,Postpaid,Bangalore,19.19,288,427.76,8.07,1.0,0.0,0.0,53,Month-To-Month,409.25,Yes,1,0.0,0,
+1473,Swati Shah,Postpaid,Delhi,5.2,284,283.21,10.89,0.0,0.0,0.0,26,Two Year,273.83,No,0,0.006,0,Low
+1474,Meena Pandey,Postpaid,Delhi,11.93,42,364.71,91.18,0.0,0.0,0.0,4,One Year,383.81,No,0,1.0,1,High
+1475,Swati Singh,Postpaid,Delhi,15.06,355,392.98,11.56,0.0,0.0,0.0,34,Two Year,358.76,No,0,0.0,0,
+1476,Vikram Rao,Postpaid,Delhi,9.11,293,374.07,7.19,1.0,0.0,0.0,52,Two Year,434.2,No,0,0.0,0,
+1477,Pooja Chopra,Prepaid,Chennai,3.07,323,178.82,3.73,0.0,0.0,0.0,48,One Year,160.92,No,0,0.001,0,Low
+1478,Manoj Bose,Postpaid,Kolkata,12.57,209,217.5,12.08,0.0,0.0,0.0,18,One Year,216.67,No,0,0.035,0,Low
+1479,Arjun Bose,Postpaid,Hyderabad,15.64,242,392.85,9.82,2.0,0.0,0.0,40,Month-To-Month,405.22,Yes,1,0.0,0,
+1480,Sanjay Kumar,Prepaid,Mumbai,0.77,239,122.97,3.51,0.0,0.0,0.0,35,Month-To-Month,123.07,Yes,1,0.02,0,Low
+1481,Divya Joshi,Postpaid,Chennai,17.59,382,306.12,7.47,3.0,0.0,0.0,41,Month-To-Month,291.48,No,0,0.0,0,
+1482,Amit Shah,Prepaid,Chennai,2.87,242,167.86,5.79,2.0,0.0,0.0,29,One Year,196.6,No,0,0.002,0,Low
+1483,Rohit Chatterjee,Prepaid,Hyderabad,7.5,488,249.03,4.79,1.0,1.0,1.0,52,One Year,224.06,No,0,0.0,0,
+1484,Vikram Patel,Postpaid,Hyderabad,10.9,323,285.45,9.84,0.0,0.0,0.0,29,Two Year,290.08,No,0,0.001,0,Low
+1485,Priya Verma,Prepaid,Mumbai,2.08,152,80.14,2.11,1.0,0.0,0.0,38,Month-To-Month,84.1,No,0,0.036,0,Low
+1486,Deepak Kumar,Postpaid,Mumbai,10.01,267,370.53,8.82,0.0,0.0,0.0,42,One Year,415.64,No,0,0.001,0,Low
+1487,Geeta Chopra,Postpaid,Hyderabad,9.7,215,323.87,15.42,0.0,0.0,0.0,21,One Year,329.86,No,0,0.018,0,Low
+1488,Karan Sharma,Prepaid,Delhi,16.86,61,193.9,4.62,0.0,0.0,0.0,42,One Year,194.11,No,0,0.037,0,Low
+1489,Swati Mehta,Prepaid,Chennai,5.74,440,186.28,14.33,0.0,0.0,0.0,13,One Year,191.82,No,0,0.002,0,Low
+1490,Rekha Verma,Prepaid,Bangalore,2.21,350,133.65,2.73,0.0,0.0,0.0,49,Month-To-Month,126.85,Yes,1,0.001,0,Low
+1491,Karan Das,Postpaid,Mumbai,11.65,333,409.14,9.98,0.0,0.0,0.0,41,One Year,419.09,No,0,0.0,0,
+1492,Arjun Iyer,Postpaid,Mumbai,10.38,297,451.24,26.54,0.0,0.0,0.0,17,Month-To-Month,396.37,No,0,0.017,0,Low
+1493,Rajesh Patel,Postpaid,Hyderabad,15.35,142,322.51,5.76,2.0,0.0,0.0,56,Month-To-Month,313.18,No,0,0.001,0,Low
+1494,Nisha Rao,Prepaid,Kolkata,2.51,232,239.28,26.59,1.0,0.0,0.0,9,Month-To-Month,219.07,Yes,1,0.236,0,Low
+1495,Kavya Joshi,Postpaid,Bangalore,13.44,364,412.08,10.05,0.0,0.0,0.0,41,One Year,466.78,No,0,0.0,0,
+1496,Priya Singh,Prepaid,Bangalore,2.05,175,173.26,173.26,1.0,0.0,0.0,1,Two Year,178.77,No,0,1.0,1,High
+1497,Ajay Verma,Postpaid,Mumbai,6.46,27,287.34,143.67,1.0,0.0,0.0,2,One Year,302.13,No,0,1.0,1,High
+1498,Ravi Pandey,Prepaid,Delhi,3.28,257,163.65,3.41,0.0,0.0,0.0,48,One Year,160.31,No,0,0.002,0,Low
+1499,Arun Iyer,Postpaid,Kolkata,15.65,266,547.71,18.89,2.0,0.0,0.0,29,One Year,494.17,No,0,0.0,0,
+1500,Arjun Bose,Prepaid,Bangalore,4.14,294,55.82,1.69,1.0,1.0,1.0,33,One Year,63.9,No,0,0.001,0,Low
